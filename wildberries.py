@@ -93,6 +93,9 @@ def get_data_from_json(json_file: dict) -> list:
         cashback = data.get('feedbackPoints')
         sale = data.get('sale')
         brand = data.get('brand')
+        pip
+        install - r. / requirements.txt
+
         rating = data.get('rating')
         supplier = data.get('supplier')
         supplierRating = data.get('supplierRating')
